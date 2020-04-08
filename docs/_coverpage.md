@@ -7,6 +7,7 @@
 - Simple and lightweight (~21kB gzipped)
 - No statically built html files
 - Multiple themes
+- From texastic/ working copy/ iPhone XR
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Getting Started](#docsify)
