@@ -15,7 +15,7 @@
   - [Language highlighting](language-highlight.md)
 
 - Guide
-  - [Deploy](guide.md)
+  - [RobPage](guide.md)
   - [Deploy](deploy.md)
   - [Helpers](helpers.md)
   - [Vue compatibility](vue.md)
