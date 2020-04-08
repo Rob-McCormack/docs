@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  A magical documentation site generator.
+  A magical documentation site generator. xxx
 </p>
 
 <p align="center">
   <a href="#backers"><img alt="Backers on Open Collective" src="https://opencollective.com/docsify/backers/badge.svg?style=flat-square"></a>
   <a href="#sponsors">
-    <img alt="Sponsors on Open Collective" src="https://opencollective.com/docsify/sponsors/badge.svg?style=flat-square"></a> 
+    <img alt="Sponsors on Open Collective" src="https://opencollective.com/docsify/sponsors/badge.svg?style=flat-square"></a>
   <a><img src="https://github.com/docsifyjs/docsify/workflows/Unit%20tests%20Suite/badge.svg?branch=develop&amp;event=push" alt="Unit tests Suite"></a>
   <a><img src="https://github.com/docsifyjs/docsify/workflows/Linting%20Checks/badge.svg?branch=develop&amp;event=push" alt="Linting Checks"></a>
   <a><img src="https://github.com/docsifyjs/docsify/workflows/Testing%20the%20e2e%20test%20suites/badge.svg?branch=develop&amp;event=push" alt="Testing the e2e test suites"></a>
