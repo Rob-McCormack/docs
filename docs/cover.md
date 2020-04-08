@@ -30,6 +30,7 @@ Set `coverpage` to **true**, and create a `_coverpage.md`:
 - No statically built html files
 - Multiple themes
 - From Working Copy iPhone XR
+- From Textastic => Working Copy
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify)
